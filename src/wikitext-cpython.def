@@ -1,0 +1,4 @@
+LIBRARY WikiText-Cpython
+EXPORTS
+
+    WikiText_Cpython_Init
