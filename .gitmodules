@@ -1,0 +1,3 @@
+[submodule "wikitext"]
+	path = wikitext
+	url = http://github.com/landgrafhomyak/wikitext
